@@ -1,0 +1,10 @@
+def hello():
+    print("Hello")
+
+    def main():
+        hello()
+
+        if_name=="_main_"
+
+
+        
